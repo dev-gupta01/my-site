@@ -62,7 +62,8 @@ div {
 .c,
 .html,
 .college,
-.secondary {
+.secondary,
+.microsoft {
   width: 20%;
   float: left;
   margin-right: 30px;
