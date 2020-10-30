@@ -38,20 +38,20 @@ a:hover {
   font-weight: normal;
 }
 .top-container {
+  height: 100vh;
+  overflow: auto;
   background-color: #e4f9f5;
-  position: relative;
-  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-
-.bottom-cloud {
-  position: absolute;
-  right: 300px;
-  top: 10%;
+.top-content {
+  max-width: max-content;
+  margin: auto;
 }
-.top-cloud {
-  position: absolute;
-  left: 10%;
-  bottom: 300px;
+.devashish,
+.a-programmer {
+  margin: 0;
 }
 img {
   max-width: 100%;
