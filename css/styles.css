@@ -53,14 +53,17 @@ a:hover {
   bottom: 300px;
 }
 .c,
-.html {
+.html,
+.college,
+.secondary {
   width: 20%;
   float: left;
   margin-right: 30px;
   margin-top: auto;
   margin-bottom: auto;
 }
-.blockchain {
+.blockchain,
+.senior-secondary {
   width: 20%;
   float: right;
   margin-left: 30px;
